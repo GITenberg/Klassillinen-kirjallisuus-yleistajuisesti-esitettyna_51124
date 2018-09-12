@@ -1,0 +1,38 @@
+_repo: Klassillinen-kirjallisuus-yleistajuisesti-esitettyna_51124
+_version: 0.0.1
+alternative_title: The Classics for the Million. Finnish
+contributor:
+  translator:
+    agent_name: Lamminen, Frans
+    gutenberg_agent_id: '48956'
+    url: http://www.gutenberg.org/2009/agents/48956
+creator:
+  author:
+    agent_name: Grey, Henry
+    gutenberg_agent_id: '46250'
+    url: http://www.gutenberg.org/2009/agents/46250
+  editor:
+    agent_name: Öman, Victor Emanuel
+    aliases:
+    - Oman, Victor Emanuel
+    - Oeman, Victor Emanuel
+    birthdate: 1833
+    deathdate: 1904
+    gutenberg_agent_id: '48413'
+    url: http://www.gutenberg.org/2009/agents/48413
+description: ''
+gutenberg_issued: '2016-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51124'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin literature -- Translations into Finnish'
+- !lcc 'PA'
+- !lcsh 'Greek literature -- Translations into Finnish'
+- GITenberg
+title: Klassillinen kirjallisuus yleistajuisesti esitettynä
+url: http://www.gutenberg.org/ebooks/51124
